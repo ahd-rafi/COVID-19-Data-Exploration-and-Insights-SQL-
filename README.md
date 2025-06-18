@@ -4,6 +4,3 @@ This project leverages SQL scripts to analyze and explore COVID-19 data, providi
 
 
 
-
-
-
